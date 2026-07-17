@@ -24,11 +24,11 @@ Website ini bertujuan untuk membantu Galeri UMKM Balikpapan dalam mempromosikan 
 ## Tech Stack
 
 ### Frontend
-- HTML
+- React
 - CSS
 
 ### Backend
-- Javascript
+- PHP
 
 ### Database
 - SQL
