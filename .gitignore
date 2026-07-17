@@ -1,0 +1,19 @@
+# Log
+logs/*.log
+
+# Upload sementara / hasil upload asli (jangan ikut ke-commit, kecuali kalian sepakat lain)
+uploads/products/*
+uploads/stores/*
+uploads/temp/*
+!uploads/products/.gitkeep
+!uploads/stores/.gitkeep
+!uploads/temp/.gitkeep
+
+# Environment / kredensial (kalau nanti pindah ke .env)
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
